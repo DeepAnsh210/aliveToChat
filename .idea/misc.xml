@@ -6,11 +6,18 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.2109375" />
         <entry key="app/src/main/res/drawable/chat_left.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/drawable/chat_right.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/setting_vector.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/layout-w1240dp/login.xml" value="0.190234375" />
+        <entry key="app/src/main/res/layout-w936dp/login.xml" value="0.146875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/app_settings.xml" value="0.25" />
         <entry key="app/src/main/res/layout/chat_item_left.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/chat_item_right.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_chats.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_users.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/opt_verificaiton.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/message_menu.xml" value="0.19583333333333333" />
       </map>
     </option>
   </component>

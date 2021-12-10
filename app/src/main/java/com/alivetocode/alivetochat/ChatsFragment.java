@@ -16,10 +16,10 @@ import java.util.List;
 
 public class ChatsFragment extends Fragment {
 
-    MessageAdapter messageAdapter;
-    List<Chat> mChat;
+    private MessageAdapter messageAdapter;
+    private List<Chat> mChat;
 
-    RecyclerView recyclerView;
+    private RecyclerView recyclerView;
 
     public ChatsFragment() {
         // Required empty public constructor
@@ -39,7 +39,7 @@ public class ChatsFragment extends Fragment {
         linearLayoutManager.setStackFromEnd(true);
         recyclerView.setLayoutManager(linearLayoutManager);
 
-        view.findViewById(R.id.btn_send).setOnClickListener(new View.OnClickListener() {
+        view.findViewById(R.id.btn_send_message).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mChat = new ArrayList<>();
